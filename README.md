@@ -16,7 +16,7 @@
 ## 2、编译方法
 
 - [字体包下载-百度盘](https://pan.baidu.com/s/1kVuF0Fl)
-- [字体包下载-Google Drive](https://drive.google.com/file/d/0ByPSg5LzlAjAcm1oeWx1OGRWeEU/view)
+- [字体包下载-Google Drive](https://drive.google.com/file/d/0ByPSg5LzlAjAcm1oeWx1OGRWeEU/view?usp=sharing&resourcekey=0-V5JtkODnfLqC5yc8LTDFfQ)
 
 ### 2.1、 __OS X__ （[MacTeX2016](https://tug.org/mactex/) 不低于 OS X Yosemite 通过）
 
